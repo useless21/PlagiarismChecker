@@ -3,8 +3,8 @@ import flet as flt
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
-from win32api import GetSystemMetrics
-import win32gui
+#from win32api import GetSystemMetrics
+#import win32gui
 
 # Function to tokenize the code (a simple example)
 
